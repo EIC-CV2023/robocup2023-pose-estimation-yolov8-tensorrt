@@ -1,2 +1,2 @@
-# robocup2023-pose-estimation-yolov8-tensorrt
-This is pose estimation yolov8 by KC and tensorrt by Game
+# robocup2023-pose-estimation-YoloV8-TensorRT
+ This is the one KC made + TensorRT(Game)
